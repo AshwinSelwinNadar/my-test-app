@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.user {
+    width: 160px;
+    display: flex;
+    align-items: center;
+}

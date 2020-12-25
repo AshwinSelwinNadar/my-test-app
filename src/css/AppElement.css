@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.appElement {
+    margin-left: 10px;
+    font-size: small;
+    display: flex;  
+    align-items: center;
+}
+
+.appElement__label {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.appElement__serialNo {
+    
+}
+
+.appElement__title {
+    background: gray;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+}
